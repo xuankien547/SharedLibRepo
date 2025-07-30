@@ -1,2 +1,2 @@
-@Library(SharedLibRepo) _
+@Library('SharedLibRepo') _
 checkbucket('lambda-terraform')
