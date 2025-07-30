@@ -3,4 +3,4 @@ library identifier: 'SharedLibRepo@main', retriever: modernSCM(
    remote: 'https://github.com/xuankien547/SharedLibRepo.git',
    credentialsId: 'GITHUB']) // nếu cần
 
-checkbucket('lambda-terraform')
+checkbucket('kingwai-bucket')
