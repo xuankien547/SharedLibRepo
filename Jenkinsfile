@@ -8,8 +8,5 @@ node {
         ])
     }
 
-    stage('Check Bucket') {
-        // Call function from SharedLib
-        checkbucket('kingwai-bucket')
-    }
+    checkbucket('kingwai-bucket')
 }
